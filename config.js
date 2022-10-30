@@ -39,8 +39,8 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6285172446692', 'leviXd', true],
-['6282131369002', 'victor bot', true]
+['6287748767284', 'Muffel', true],
+['6287748767284', 'Muffel', true]
 ]
 global.mods = []
 global.prems = []
@@ -54,42 +54,42 @@ global.nomorwa = '0'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.author = 'Created By leviXd'
-global.namebot = 'victor bot'
-global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 victor md'
+global.author = 'Created By MUFFELラ'
+global.namebot = 'NOCTURNAL BOT'
+global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 muffel'
 global.media = 'https://telegra.ph/file/b69e2e87cdbaebb7751ce.jpg'
 global.watermark = wm
-global.wm2 = 'victor bot '
+global.wm2 = 'MUFFEL BOT '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.packname = wm
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `victor 𝐗 leviXd`
-global.stickpack = 'victor 𝐗 leviXd'
-global.stickauth = `© Victor MD`
+global.titlebot = `Nocturnal 𝐗 Muffel`
+global.stickpack = 'Nocturnal 𝐗 Muffel'
+global.stickauth = `© MUFFEL MD`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= 'victor bot'
-global.nameown2 = 'leviXd'
+global.nameown1= 'muffel'
+global.nameown2 = 'muffel'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.Linkgc = 'https://chat.whatsapp.com/JkdB3gSCwCRGgOdCRfkAt1'
-global.lynk = 'https://chat.whatsapp.com/JkdB3gSCwCRGgOdCRfkAt1'
+global.Linkgc = 'https://chat.whatsapp.com/BQ9qfzz9eYY5uBF9Mlo5C4'
+global.lynk = 'https://chat.whatsapp.com/BQ9qfzz9eYY5uBF9Mlo5C4'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = 'https://instagram.com/leviatnansyah?igshid=YmMyMTA2M2Y='
-global.sgh = 'https://github.com/victorbot22' //github
-global.sgc = 'https://chat.whatsapp.com/JkdB3gSCwCRGgOdCRfkAt1' //group whatsapp
+global.sig = 'https://instagram.com/m1stycs_'
+global.sgh = 'https://github.com/Cello-Is' //github
+global.sgc = 'https://chat.whatsapp.com/BQ9qfzz9eYY5uBF9Mlo5C4' //group whatsapp
 global.sdc = '-' //discord
 global.snh = 'https://youtube.com/channel/UC2GOH5mCArh3E4J3sGFMC5g'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '085172446692'
+global.pdana = '087748767284'
 global.povo = '-'
-global.pgopay = '085172446692'
+global.pgopay = '087748767284'
 global.plinkaja = '-' //link aja
-global.ppulsa = '0813 6128 1833'
-global.ppulsa2 = '083838186170'
+global.ppulsa = '0877 4876 7284'
+global.ppulsa2 = '087748767284'
 global.psaweria = '-'
 
 
@@ -304,7 +304,7 @@ global.hoppai = ['https://telegra.ph/file/f34d76df4a2065af1a5ba.jpg','https://te
 global.logo = 'https://i.pinimg.com/564x/f7/d2/e4/f7d2e48fd59a8c01cd396bfc70b0a2d1.jpg'
 
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
-global.urlnya = "https://www.instagram.com/hyuura-official"
+global.urlnya = "https://www.instagram.com/m1stycs_"
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
 global.phn = '0813 6128 1833'
 
